@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Orelega+One&family=Quicksand:wght@300;500&family=Young+Serif&display=swap');
+
+body{
+    background-color: rgb(205, 176, 181);
+}
+body h1{
+    width: 50%;
+    margin: 0 auto;
+    padding-top: 2rem;
+    color: rgb(86, 36, 82);
+    font-family: 'Orelega One', serif;
+    font-size: 4rem;
+}
+body img{
+    padding-top: 2rem;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+
+}
+.koostisosad {
+    border: 1px; 
+    width: 50%;
+    margin: 0 auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.koostisosad-tabel{
+    border: 1px solid black;
+    margin: 0 auto;
+    margin-left: 2rem;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 350;
+}
+.valmistamine{
+    border: 1px;
+    width: 50%;
+    margin: 0 auto;
+    font-family: 'Quicksand', sans-serif, bold;
+    font-size: 1rem;
+}
